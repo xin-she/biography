@@ -18,5 +18,7 @@ He was the IEEE Computational Intelligence Society (CIS) chair for the Task Forc
 5. [Engineering Mathematics with Examples and Applications](https://www.sciencedirect.com/book/9780128097304/engineering-mathematics-with-examples-and-applications) Academic Press/Elsevier, (2017)
 
 ---
-##### Show email address 
-<details> <sumary> x.yang (at) mdx.ac.uk </summary> </details>
+#####  Show email address 
+<details>  
+  <p> x.yang (at) mdx.ac.uk </p> 
+</details>
