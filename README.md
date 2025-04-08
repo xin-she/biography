@@ -10,7 +10,7 @@ He was the IEEE Computational Intelligence Society (CIS) chair for the Task Forc
 ---
 ##### Show Full Lists of Publications
 <details>
-  <sumary> 
+  <sumary> </summary>
     
 ### Full list of my publications can be found at  [Google Scholar](https://scholar.google.co.uk/citations?user=fA6aTlAAAAAJ),  [Research Gate](https://www.researchgate.net/profile/Xin-She-Yang) or [ORCID](https://orcid.org/0000-0001-8231-5556)
 
@@ -20,6 +20,5 @@ He was the IEEE Computational Intelligence Society (CIS) chair for the Task Forc
 3. [Nature-Inspired Optimization Algorithms](https://shop.elsevier.com/books/nature-inspired-optimization-algorithms/yang/978-0-12-821986-7) Second Edition, Academic Press, (2020)
 4. [Mathematics for Civil Engineers: An Introduction](https://www.jstor.org/stable/jj.12638999) Liverpool University Press/Dunedin Academic Press, (2018)
 5. [Engineering Mathematics with Examples and Applications](https://www.sciencedirect.com/book/9780128097304/engineering-mathematics-with-examples-and-applications) Academic Press/Elsevier, (2017)
-</summary>
 
 </details> 
